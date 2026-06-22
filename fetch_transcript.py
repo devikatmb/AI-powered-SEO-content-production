@@ -1,0 +1,6 @@
+video_id = "gFqNOCWbF-4"
+video_url = "https://www.youtube.com/watch?v=gFqNOCWbF-4"
+expert_name = "Kevin Indig"
+video_title = "SEO In The Age of AI: Expert Insights from Kevin Indig"
+video_date = "March 2025"
+file_name = "kevin-indig.md"
