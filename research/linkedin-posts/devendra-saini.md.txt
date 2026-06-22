@@ -1,0 +1,125 @@
+# Devendra Saini — LinkedIn Posts
+
+## Post 1
+Date: June 18, 2026
+Engagement: 4 comments
+
+I'm not sure what's with this obsession in the entire 
+SEO community of posting SEO jobs from Anthropic, 
+OpenAI, Facebook, etc.
+
+Why is everyone seeking validation from them?
+
+Actually open the JD. Nobody's hiring for meta tags 
+and backlinks. They want search infrastructure + AI 
+discovery + growth and content engineering.
+
+Which is not at all what most traditional SEO roles 
+looked like.
+
+They will be the next domains to outrank a ton of 
+websites and this has already begun, with massive 
+authority across a ton of categories.
+
+And it's not a celebration at all. The scale they want 
+to achieve might not even need large teams that 
+traditional SEO teams had.
+
+Key Insight: AI companies hiring for SEO roles signals
+a fundamental shift — modern SEO is about search
+infrastructure and AI discovery, not meta tags and backlinks.
+
+Post URL: https://www.linkedin.com/in/devendrasaini
+
+---
+
+## Post 2
+Date: June 25, 2026
+Engagement: 5 comments, 1 repost
+
+SEO Agent Alert: It's hard to keep up with every Google 
+Search update, every policy and doc change, and every 
+AI Search shift, all in one place.
+
+So I built an autonomous agent that keeps the timeline current.
+
+It crawls a set of designated pages and RSS feeds 4 to 5 
+times an hour, then ships the real updates straight to 
+your inbox.
+
+Under the hood it runs on the Claude and OpenAI APIs for 
+curation and drafting, so the irrelevant news and noise 
+gets filtered out before it ever reaches you.
+
+What lands on the timeline:
+- Google algorithm rollouts, confirmed, not speculation
+- Search policy and documentation changes
+- AI Search moves from OpenAI, Anthropic, Perplexity and Google
+
+No recaps of recaps. No 30 hot takes before lunch. 
+Just what actually shipped, the moment it shipped.
+
+https://lnkd.in/gK8QSujy
+
+Key Insight: Building autonomous agents to monitor SEO
+and AI search changes in real time is the new competitive
+advantage for SEO practitioners.
+
+Post URL: https://www.linkedin.com/in/devendrasaini
+
+---
+
+## Post 3
+Date: June 08, 2026
+Engagement: 8 comments, 1 repost
+
+I rebuilt my entire SEO + content workflow as 18 agents 
+and 2 human gates. Here's what it does:
+
+For the past 4 weeks, I've been building an entire AI 
+powered suite with a class UI that team loves to use 
+and it actually mimics my actual workflow.
+
+Here's what it does:
+
+1. Raw keywords → a real strategy
+Drop in a keyword dump from Keyword Planner, Ahrefs or 
+Semrush. It turns that mess into a fully optimised topical 
+map, clustering by real SERP similarity, embeddings, and 
+multiple LLM decision layers.
+
+Out comes detailed page outlines, search intent, UI/UX 
+direction, NLP entities, programmatic logic, and sharp 
+recommendations.
+
+2. Outline → publish-ready draft
+Hand the outline to a human writer, or pass it to the 
+content orchestrator: an entire content team working 
+one article at a time.
+
+It analyses the brief, checks intent-satisfaction, and 
+writes in your brand's voice with hyper customisable skills.
+
+Then it gets strict. Factual and quality gates evaluate 
+the content with more than 20 benchmarks. Only what passes 
+reaches the editor, with detailed notes for review.
+
+Under the hood:
+→ Claude, OpenAI & Gemini + 4 specialised APIs
+→ Multiple hyper-customisable RAG layers
+→ Token caching built into the feedback loops
+
+This isn't "AI writes your blog." It's an operating system 
+for how a great SEO and content team actually thinks.
+
+The teams that win the next few years won't be the ones 
+replaced by agents. They'll be the ones who learned 
+to direct them.
+
+Claude code and Codex - take a bow!
+
+Key Insight: The future of SEO content production is
+semi-autonomous agent systems with human gates for quality
+control — not full automation or full manual work.
+
+Post URL: https://www.linkedin.com/in/devendrasaini

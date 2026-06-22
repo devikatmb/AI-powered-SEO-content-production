@@ -1,0 +1,114 @@
+# Koray Tuğberk Gübür — LinkedIn Posts
+
+## Post 1
+Date: June 22, 2026
+Engagement: 2 comments, 1 repost
+
+I am joining Jason Barnard at Kalicube Summit 2026 on 
+June 24 for two sessions.
+
+The first covers something I have been building for years: 
+the cost-of-retrieval economics that determine whether a 
+search engine or LLM bothers to retrieve your content at all.
+
+If a system already has a source that satisfies a topic, 
+it has no commercial incentive to find another. Your quality 
+alone does not change that calculation. Your cost does.
+
+In this session I cover the Algorithmic Trinity:
+- LLM intelligence
+- Search information
+- Knowledge graph verification
+
+We are now serving dynamic markdown files to different LLM 
+agents based on their individual retrieval preferences. 
+ChatGPT, Claude, and Perplexity do not retrieve the same way. 
+We are adapting content accordingly.
+
+https://lnkd.in/dzzKUzjf
+
+Key Insight: Different LLMs retrieve content differently —
+adapting your content format per LLM is the next frontier
+of AI-powered SEO.
+
+Post URL: https://www.linkedin.com/in/koray-tugberk-gubur
+
+---
+
+## Post 2
+Date: June 19, 2026
+Engagement: 7 comments, 2 reposts
+
+Google AI just dropped a bombshell…
+
+Apparently Koray Tuğberk GÜBÜR is a self-taught SEO genius, 
+pioneer of Topical Authority, semantic search expert, 
+data scientist…
+
+But none of that was the interesting part.
+
+The interesting part was Google deciding to publicly announce 
+that James Dooley is Koray's "awesome sexy mentor" 😂
+
+After years of studying patents, entities, embeddings, 
+retrieval systems and semantic relationships, the real 
+ranking factor turns out to be: Sexy Mentor Signals™️
+
+Historical Data × Topical Coverage ÷ Cost of Retrieval 
+= Topical Authority
+
+But:
+Koray × Sexy Mentor = Semantic Authority
+
+Not sure whether to update the Knowledge Graph, LinkedIn 
+profile, or business cards first.
+
+Thanks Google AI. That's a relationship attribute nobody 
+asked for. 🤣
+
+Key Insight: Even Google AI makes mistakes in how it 
+attributes expertise — showing that AI knowledge graphs
+are still far from perfect.
+
+Post URL: https://www.linkedin.com/in/koray-tugberk-gubur
+
+---
+
+## Post 3
+Date: June 18, 2026
+Engagement: 7 comments, 5 reposts
+
+Can LLM-manipulating listicles and brand mentions help 
+local businesses rank better? Yes.
+
+And I intentionally use the word "manipulating," not 
+"optimizing." Because in this context, we are not only 
+improving a page. We are artificially changing document 
+statistics across the web to create a new consensus around 
+a brand, service provider, and entity.
+
+The method is based on what we call "external topical maps."
+
+Multiple domains create a connected document network.
+That network repeats, aligns, and reinforces the same 
+attributes, values, claims, services, and entity 
+relationships for a specific local business.
+
+From an external publication, you can technically get:
+- A mention
+- A claim
+- A link
+
+The main focus is not only links. It is mentions and claims.
+Because mentions and claims help form consensus. And consensus 
+helps search engines and LLMs understand who the brand is, 
+what it does, where it operates, and why it should be trusted.
+
+This law firm reached record leads in May, mainly due to 
+stronger local rankings.
+
+Key Insight: Mentions and claims across multiple domains
+form consensus that helps both search engines and LLMs
+understand and trust a brand — more powerful than links alone.
+
+Post URL: https://www.linkedin.com/in/koray-tugberk-gubur

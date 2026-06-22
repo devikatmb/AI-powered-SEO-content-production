@@ -1,0 +1,86 @@
+# Dr. Marie Haynes — LinkedIn Posts
+
+## Post 1
+Date: June 20, 2026
+Engagement: 2 comments, 4 reposts
+
+This is a very helpful read on Agentic Resource Discovery (ARD.)
+
+ARD allows websites to advertise their AI capabilities by 
+hosting a structured ai-catalog.json file at a standardized 
+web path.
+
+AI agents and centralized registries automatically crawl 
+these files to instantly discover the site's APIs, tools, 
+and MCP servers without having to guess or blindly scrape 
+the website.
+
+This creates a trust-verified, decentralized network where 
+agents can easily find and interact with web services using 
+natural language.
+
+https://lnkd.in/g9h8asT8
+
+Key Insight: Websites that advertise their AI capabilities
+via structured files will be discovered and trusted by AI
+agents faster — a new frontier for technical SEO.
+
+Post URL: https://www.linkedin.com/in/marie-haynes
+
+---
+
+## Post 2
+Date: June 17, 2026
+Engagement: 4 comments, 5 reposts
+
+Another new exciting announcement from Google: 
+The Agentic Resource Discovery specification.
+
+ARD allows tools and services to be securely shared 
+and connected. It helps agents know:
+▪️ Where the right capability lives
+▪️ Which capability it should use
+▪️ How to verify if the capability is safe
+
+It relies on:
+- Catalogs: an organization publishes a catalog that 
+  describes its available capabilities
+- Registries: a search engine for the agentic web
+
+ARD provides a cryptographic layer for verification 
+and trust of agents.
+
+Google's blog post: https://lnkd.in/gAW6J2UH
+The Spec file: https://lnkd.in/g_Y66bAZ
+More documentation: https://lnkd.in/gubPqb-T
+
+Key Insight: The agentic web is being built with
+structured discovery systems — brands that adopt ARD
+early will have a significant visibility advantage.
+
+Post URL: https://www.linkedin.com/in/marie-haynes
+
+---
+
+## Post 3
+Date: June 16, 2026
+Engagement: 2 comments, 6 reposts
+
+Google's new Open Knowledge Format opens up so many 
+possibilities and opportunities!
+
+It is a standardized format for storing your knowledge 
+in a way that agents can easily use. Instead of giving 
+agents ALL of your knowledge to stuff into its context 
+window, you give agents a map so they can find specifically 
+what they need.
+
+https://lnkd.in/g3juf_-i
+
+Video on YT: https://lnkd.in/gEer9DRT
+
+Key Insight: Structuring your knowledge base in formats
+that AI agents can easily navigate is becoming as important
+as traditional on-page SEO optimization.
+
+Post URL: https://www.linkedin.com/in/marie-haynes

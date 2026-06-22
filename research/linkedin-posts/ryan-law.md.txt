@@ -1,0 +1,89 @@
+# Ryan Law — LinkedIn Posts
+
+## Post 1
+Date: June 22, 2026
+Engagement: 4 comments
+
+SORCERY! we publish tons of data content at Ahrefs, 
+and that usually necessitates hours of tedious content 
+updating: pulling fresh data from the API every month, 
+analyzing it, generating new data visualizations, 
+passing off to design, updating in WordPress...
+
+Now we all have tasks set up that automatically:
+- Pull fresh data from the right endpoints, every month
+- Generate updated charts and tables
+- Insert the updates into WordPress drafts
+- Make any minor copyedits required
+- Email us to say the updated article is ready for review!
+
+This was my dream for AI, actual automation, genuinely 
+saving us hours of drudgery, and it is finally here! 
+SORCERY!!!
+
+Key Insight: True AI automation in content production
+means removing the drudgery of repetitive tasks — not
+replacing human creativity but freeing it up completely.
+
+Post URL: https://www.linkedin.com/in/thinkingslow
+
+---
+
+## Post 2
+Date: June 17, 2026
+Engagement: 19 comments, 10 reposts
+
+97% of llms.txt files got zero requests in May 🙃
+No bots, no humans, nothing.
+
+Here are 3 more findings from our research of 137K sites:
+
+1. Slackbot fetched llms.txt files more often than 
+   PerplexityBot did! Slack's link-preview bot beat 
+   the AI search engine llms.txt was supposedly built for.
+
+2. The biggest research crawler in the data identifies 
+   as "prompt-injection-survey". Bad actors are already 
+   probing llms.txt, because agents are built to trust it.
+
+3. Zero AI bots go looking for llms.txt files that 
+   don't exist.
+
+Key Insight: llms.txt as a tactic is largely ineffective
+right now — real data shows almost no AI bots are actually
+using it, despite the hype around it.
+
+Post URL: https://www.linkedin.com/in/thinkingslow
+
+---
+
+## Post 3
+Date: June 16, 2026
+Engagement: 36 comments, 8 reposts
+
+Here's my human-centric vibe-writing process for going 
+from keyword idea to published article in 91 minutes.
+
+I've shared a lot of content about full-bore AI automation, 
+using tons of chained skill files to build pipelines that 
+create great content without any human intervention.
+
+But... it's not a particularly fun process.
+
+Both Tim Soulo and Mateusz Makosiewicz use AI to support 
+their writing, but they do it very differently to me: 
+they vibe-write, they talk and joke and ramble to their 
+AI agent, and let the AI refine their creativity and 
+impose structure.
+
+So I tried out their process today and honestly, it was 
+the most fun I've had writing for Ahrefs in ages.
+
+All you need is a microphone, a head full of good ideas, 
+and a capable marketing agent.
+
+Key Insight: The best AI content workflow isn't full
+automation — it's using AI to amplify human creativity
+through vibe-writing, not replace it.
+
+Post URL: https://www.linkedin.com/in/thinkingslow
