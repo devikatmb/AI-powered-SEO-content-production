@@ -1,0 +1,89 @@
+# Lily Ray — LinkedIn Posts
+
+## Post 1
+Date: June 18, 2026
+Engagement: 106 comments 38 reposts
+
+For the last couple of years, the easiest GEO hack in 
+the book was to publish a "best [category]" listicle 
+and rank yourself #1.
+
+I pulled 100 B2B "best [category]" queries from Google's 
+AI Overviews across three dates between April and June:
+
+When a brand's own self-promotional listicle got cited, 
+that brand was left out of the actual recommendation 
+69% of the time. And the recommendations went to the 
+established competitors they'd listed in their own article.
+
+So you write a listicle, name your competitors, call 
+yourself the best, and Google cites you as the source 
+while recommending everyone else on your list.
+
+Google seems to have decoupled what it cites from who 
+it recommends, and the recommendations appears to be 
+anchored to actual authority rather than how many times 
+you've called yourself #1.
+
+Key Insight: Being recommended in AI answers is far more
+valuable than being cited. Self-promotional content is
+increasingly backfiring in AI search.
+
+Post URL: https://www.linkedin.com/in/lily-ray-44755615
+
+---
+
+## Post 2
+Date: June 15, 2026
+Engagement: 128 comments 27 reposts
+
+I think the next frontier of spam fighting from the 
+search/AI companies is going to hit one of the most 
+popular page types in SEO/GEO right now: comparison 
+and alternative pages.
+
+The fundamental problem: like any other "review" page, 
+Google already has strict criteria for product reviews. 
+The core requirement is that you prove you actually 
+tried and tested the product, with evidence.
+
+I believe we're already seeing — and will keep seeing — 
+Google, OpenAI and other AI companies look for "objective" 
+3rd party reviews instead of leaning on biased brand content.
+
+This is ultimately why search/AI companies lean so heavily 
+into Reddit discussions, YouTube reviews, Trustpilot, G2, 
+and other major review sites.
+
+Key Insight: Building comparison pages at scale 
+inauthentically is becoming a liability. Third party 
+reviews are what AI models trust most.
+
+Post URL: https://www.linkedin.com/in/lily-ray-44755615
+
+---
+
+## Post 3
+Date: June 15, 2026
+Engagement: 58 comments 12 reposts
+
+The media is finally catching onto the popular SEO/GEO 
+tactics that companies have been using to manipulate 
+AI answers.
+
+I was interviewed for this new article by Will Oremus 
+of The Atlantic, which discusses self-promotional 
+listicles, Reddit astroturfing and other common ways 
+to influence AI responses.
+
+I know Google and OpenAI are trying to fix things — 
+I keep tabs on this stuff daily and the results are 
+gradually getting better over time. But I'm a bit 
+surprised by how long it's taking them to do a better 
+job cracking down on this wave of spam.
+
+Key Insight: The window for manipulating AI answers 
+through self-promotional content is closing fast as 
+Google and OpenAI actively work to fix these loopholes.
+
+Post URL: https://www.linkedin.com/in/lily-ray-44755615

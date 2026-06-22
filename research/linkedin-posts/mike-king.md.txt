@@ -1,0 +1,70 @@
+# Mike King — LinkedIn Posts
+
+## Post 1
+Date: June 16, 2026
+Engagement: 16 comments, 3 reposts
+
+Measurement is the first thing generative AI broke, 
+and most CMOs haven't admitted it yet.
+
+For decades we lived and died by rankings and traffic. 
+That worked when a user saw a list and picked a link. 
+But AI Search doesn't return a list. The query fans out, 
+the model synthesizes one answer, and ranking #1 stops 
+mattering if you're not the citation the model trusts.
+
+Classic search was a performance channel. AI Search 
+behaves more like a brand channel, so you have to think 
+about performance differently.
+
+The mistake I see executives make: they watch classic 
+rankings dip, assume the team is failing, and miss that 
+brand influence is actually climbing. Wrong scoreboard.
+
+Key Insight: The teams winning the next 24 months are 
+rebuilding the scoreboard before the old one goes fully dark.
+
+Post URL: https://www.linkedin.com/in/michaelkingphilly
+
+---
+
+## Post 2
+Date: June 16, 2026
+Engagement: 15 comments, 3 reposts
+
+A few years ago I made a free tool for the iPullRank 
+site called Parito. I've rebuilt that tool from the 
+ground up so it's faster and uses more modern libraries.
+
+It now does 18 contexts including the popular AI bots. 
+There's additional charting and it also uses Gemini Nano 
+(Chrome's built in LLM) to describe the differences 
+in the code for you.
+
+It's still free and the link is in the first comment.
+
+Key Insight: Understanding how AI bots crawl and see 
+your content is now as important as traditional SEO 
+technical audits.
+
+Post URL: https://www.linkedin.com/in/michaelkingphilly
+
+---
+
+## Post 3
+Date: June 15, 2026
+Engagement: 7 comments
+
+Just saw a great talk from George at Ramp where he talked 
+about how they tested incentives for AI agents to see 
+how they impacted citation.
+
+https://lnkd.in/ecgpTSB4
+
+Fantastic research!
+
+Key Insight: AI citation behavior can be influenced —
+understanding how agents decide what to cite is becoming
+critical for content producers.
+
+Post URL: https://www.linkedin.com/in/michaelkingphilly
